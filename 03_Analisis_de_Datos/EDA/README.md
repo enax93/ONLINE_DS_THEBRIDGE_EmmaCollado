@@ -18,6 +18,16 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos so
   - pkmn_con_nulos_completados: Actualizado con los datos nulos completados.
   - pokemon.csv: Dataset original que contiene información sobre los Pokémon.
 
+## Hipótesis
+* ¿Cuales son los Pokémon más fuertes según la sumatoria de sus estadísticas? ¿Son todos legendarios?
+* ¿Cómo es la distribución de los tipos de Pokémon según su genereción? ¿Cuáles son los más comunes y menos comunes tanto para su tipo principal y secundario?
+* ¿Cuál es la combinación elemental más frecuente? ¿Y la menos frecuente?
+* ¿Cuál es el tipo más frecuente de los Pokémon legendarios?
+* ¿Cuál es el tipo más fuerte y más débil en promedio Pokémon?
+* ¿Cuál es el la generación con los Pokémon mas fáciles y dificiles de capturar?
+* ¿Cuáles son los Pokémon con mayor número de habilidades?
+* ¿Cuáles son los Pokémon mas pesados y grandes?
+
 ## Contenido
 * Limpieza de Datos: Se eliminaron los valores nulos, se corrigieron errores y se realizó una limpieza general del conjunto de datos.
 * Exploración de Variables:
