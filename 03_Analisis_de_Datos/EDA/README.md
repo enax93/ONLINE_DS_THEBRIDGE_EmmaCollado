@@ -13,19 +13,19 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos so
 * img: Carpeta en donde se encuentran las imagenes relacionadas con el proyecto.
 * tools: Carpeta con defición de funciones para visualización de datos.
 * data: Carpeta que contiene los datasets utilizados.
-      - pokemon_actualizado.csv: Dataset actualizado, resultante de la limpieza y preprocesamiento de datos.
-      - pkmn_con_nulos.csv: Extracto de los Pokémon que tienen peso y altura en nulos para ser completados.
-      - pkmn_con_nulos_completados: Actualizado con los datos nulos completados.
-      - pokemon.csv: Dataset original que contiene información sobre los Pokémon.
+  - pokemon_actualizado.csv: Dataset actualizado, resultante de la limpieza y preprocesamiento de datos.
+  - pkmn_con_nulos.csv: Extracto de los Pokémon que tienen peso y altura en nulos para ser completados.
+  - pkmn_con_nulos_completados: Actualizado con los datos nulos completados.
+  - pokemon.csv: Dataset original que contiene información sobre los Pokémon.
 
 ## Contenido
 * Limpieza de Datos: Se eliminaron los valores nulos, se corrigieron errores y se realizó una limpieza general del conjunto de datos.
 * Exploración de Variables:
-      - Base Total: Se identificaron los Pokémon con las estadísticas más altas.
-      - Tipos de Pokémon: Se analizó la distribución de tipos de Pokémon y su relación con las estadísticas.
-      - Generaciones: Se exploró la frecuencia de Pokémon por generación.
-      - Habilidades: Se determinaron los Pokémon con la mayor cantidad de habilidades.
-      - Tamaño y Peso: Se investigaron los Pokémon más grandes y pesados.
+  - Base Total: Se identificaron los Pokémon con las estadísticas más altas.
+  - Tipos de Pokémon: Se analizó la distribución de tipos de Pokémon y su relación con las estadísticas.
+  - Generaciones: Se exploró la frecuencia de Pokémon por generación.
+  - Habilidades: Se determinaron los Pokémon con la mayor cantidad de habilidades.
+  - Tamaño y Peso: Se investigaron los Pokémon más grandes y pesados.
 
 ## Requerimientos
 Python 3.x
